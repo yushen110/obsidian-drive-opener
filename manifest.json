@@ -1,0 +1,9 @@
+{
+  "id": "drive-opener",
+  "name": "Drive Opener",
+  "version": "1.0.0",
+  "minAppVersion": "0.15.0",
+  "description": "在左侧边栏添加文件夹图标，一键打开电脑上的文件夹",
+  "author": "User",
+  "isDesktopOnly": true
+}
